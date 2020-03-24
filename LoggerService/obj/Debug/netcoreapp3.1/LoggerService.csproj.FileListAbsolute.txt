@@ -1,0 +1,3 @@
+C:\Users\cmyaz\source\repos\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\cmyaz\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\cmyaz\source\repos\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
